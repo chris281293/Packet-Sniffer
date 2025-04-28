@@ -22,7 +22,7 @@ In this project, the following features are provided:
 
 ## Build and Run
 ```bash
-git clone <repository_url>
+git clone https://github.com/chris281293/Packet-Sniffer.git
 
 cd <project_dir>
 
